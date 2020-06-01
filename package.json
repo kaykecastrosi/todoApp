@@ -14,7 +14,7 @@
     "@react-navigation/drawer": "^5.7.7",
     "@react-navigation/native": "^5.4.0",
     "@react-navigation/stack": "^5.3.7",
-    "expo": "~37.0.3",
+    "expo": "^37.0.12",
     "immutable": "^4.0.0-rc.12",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
